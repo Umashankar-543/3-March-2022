@@ -1,0 +1,7 @@
+#Write a program to merge two tuples
+l=('telangana','odissa','maharasthra')
+m=('hyderabad','bhubaneswar','mumbai')
+print(l+m)
+---------------------------------------------
+output:
+('telangana', 'odissa', 'maharasthra', 'hyderabad', 'bhubaneswar', 'mumbai')
